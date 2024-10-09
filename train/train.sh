@@ -1,0 +1,1 @@
+nohup python3 -u A_train.py --weight1 0.1 --weight2 0.0001 --weight3 0.0 --gpu 2 --k_query 60 > r_A_train.txt 2>&1 &
